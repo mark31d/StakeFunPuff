@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Sigmar-Regular.ttf",
+      "sha1": "a8a5ddefeeb343c8917e1bd502931d2809c90986"
+    },
+    {
+      "path": "assets/fonts/button1.webp",
+      "sha1": "4df982b3ba03dac7591fc9aecfb8239561432875"
+    },
+    {
+      "path": "assets/fonts/char-pig-a.webp",
+      "sha1": "e6db2d2328a8479fda20183f53d7356922d38723"
+    }
+  ]
+}
